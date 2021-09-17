@@ -40,7 +40,7 @@ foi desenvolvido para parecer com a calculadora do Android, com suas funcionalid
 
 ## 🌐 Frontend
 <h1 align="center">
-    <img  src="https://media.giphy.com/media/OmEBQewjcrqSPpq71f/giphy.gif" />
+    <img  src="https://media.giphy.com/media/nzQcVIVuvBStRnDKlm/giphy.gif?cid=790b761116d6cedc60e69c1de6d21054a1eb42f8b215fea9&rid=giphy.gif&ct=g" />
 </h1>
     
 ## 🔖 Como Executar
